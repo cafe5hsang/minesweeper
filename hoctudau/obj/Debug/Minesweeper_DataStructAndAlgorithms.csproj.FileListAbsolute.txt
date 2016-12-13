@@ -1,0 +1,9 @@
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\bin\Debug\hoctudau.exe.config
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\bin\Debug\hoctudau.exe
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\bin\Debug\hoctudau.pdb
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\obj\Debug\Minesweeper_DataStructAndAlgorithms.Form1.resources
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\obj\Debug\Minesweeper_DataStructAndAlgorithms.Minefields.resources
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\obj\Debug\Minesweeper_DataStructAndAlgorithms.Properties.Resources.resources
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\obj\Debug\Minesweeper_DataStructAndAlgorithms.csproj.GenerateResource.Cache
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\obj\Debug\hoctudau.exe
+D:\DOCUMENT\university\Lap trinh\wincmnform\hoctudau\hoctudau\obj\Debug\hoctudau.pdb
